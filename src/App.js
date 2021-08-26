@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Sabrine1 from './Sabrine1';
+import Sabrine2 from './Sabrine2';
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
           Learn React
         </a>
       </header>
+      <Sabrine1 />
+      <Sabrine2 />
     </div>
   );
 }
